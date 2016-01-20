@@ -16,4 +16,8 @@ gulp.task('test', () => {
   .pipe(lab('--verbose --coverage --sourcemaps --transform node_modules/lab-babel --ignore __core-js_shared__'))
 })
 
-gulp.task('default', ['build'])
+gulp.task('watch', () => {
+  gulp.watch(['lib/**/*.js', 'test/**/*.js'], ['test', 'build'])
+})
+
+gulp.task('default', ['watch'])
