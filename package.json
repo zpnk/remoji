@@ -1,0 +1,19 @@
+{
+  "name": "@zpnk/remoji",
+  "version": "0.0.1",
+  "description": "random emoji(s)",
+  "main": "dist/remoji.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpnk/remoji.git"
+  },
+  "author": "@zpnk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zpnk/remoji/issues"
+  },
+  "homepage": "https://github.com/zpnk/remoji#readme"
+}
