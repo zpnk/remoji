@@ -1,5 +1,5 @@
 {
-  "name": "@zpnk/remoji",
+  "name": "@wedgies/remoji",
   "version": "0.1.1",
   "description": "random emoji(s)",
   "main": "dist/remoji.js",
