@@ -28,5 +28,9 @@
     "gulp-plumber": "^1.0.1",
     "lab": "^8.0.2",
     "lab-babel": "^1.1.1"
+  },
+  "dependencies": {
+    "emojilib": "^1.1.0",
+    "lodash": "^4.0.0"
   }
 }
