@@ -19,6 +19,7 @@
   "homepage": "https://github.com/zpnk/remoji#readme",
   "devDependencies": {
     "babel-core": "^6.4.5",
+    "babel-plugin-add-module-exports": "^0.1.2",
     "babel-preset-es2015": "^6.3.13",
     "code": "^2.1.0",
     "gulp": "^3.9.0",
