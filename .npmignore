@@ -1,1 +1,4 @@
 lib
+.babelrc
+.gitignore
+gulpfile.babel.js
